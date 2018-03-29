@@ -1,2 +1,6 @@
 textone
+
 conflicting 2nd line
+
+typing in git online editor
+
